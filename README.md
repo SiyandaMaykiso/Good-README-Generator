@@ -6,10 +6,6 @@ When creating an open source project on GitHub, it’s important to have a high-
 
 This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions.
 
-•	Installation
-•	Instructions
-•	License
-
 Instructions:
 
 Step 1: Run npm install 
